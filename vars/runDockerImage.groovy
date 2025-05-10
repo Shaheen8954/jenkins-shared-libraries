@@ -1,6 +1,6 @@
 #!/usr/bin/env groovy
 
-\\ Run the container
+// Run the container
 
 def call () {
   echo "running the container..."
