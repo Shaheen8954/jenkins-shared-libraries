@@ -1,3 +1,3 @@
 def (){
-  echo "hello dosto"
+  echo "assalamu alaikum"
 }
