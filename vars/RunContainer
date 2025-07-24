@@ -1,4 +1,4 @@
-def call {
+def call() {
   # container run & down by docker compose
   sh " docker compose down"
   sh "docker compose up -d"
